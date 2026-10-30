@@ -30,10 +30,10 @@ Antiguamente jugaban en el mítico Estadio Vicente Calderón, pero desde el año
 
 ### Leyendas con más partidos (Lista numerada)
 
-1. **Koke Resurrección** (Capitán histórico y récord absoluto)
-2. **Adelardo Rodríguez** (Leyenda de los años 60 y 70)
-3. **Jan Oblak** (El muro esloveno con más trofeos Zamora)
-4. **Tomás Reñones** (Histórico lateral derecho)
+1. **Koke Resurrección** (749 partidos)
+2. **Adelardo Rodríguez** (553 partidos)
+3. **Jan Oblak** (551 partidos)
+4. **Tomás Reñones** (483 partidos)
 
 ---
 
