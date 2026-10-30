@@ -1,7 +1,5 @@
 # 🔴⚪ Club Atlético de Madrid
 
-Bienvenido al repositorio de documentación sobre el **Club Atlético de Madrid**. Este proyecto sirve como práctica para demostrar el uso de *Markdown* en GitHub, combinando estilos de texto, tablas, bloques de código y elementos multimedia.
-
 > "Nunca dejes de creer." — **Diego Pablo Simeone**
 
 ---
