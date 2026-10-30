@@ -10,7 +10,7 @@ Bienvenido al repositorio de documentación sobre el **Club Atlético de Madrid*
 
 El **Atlético de Madrid** fue fundado el *26 de abril de 1903* por un grupo de estudiantes vascos afincados en Madrid. Conocidos popularmente como los ***colchoneros*** debido a las rayas rojas y blancas de las antiguas fundas de colchones, el club se caracteriza por su espíritu de lucha, sacrificio y resiliencia.
 
-Antiguamente jugaban en el mítico ~~Estadio Vicente Calderón~~, pero desde el año 2017 disputan sus partidos como locales en el moderno **Riyadh Air Metropolitano**.
+Antiguamente jugaban en el mítico Estadio Vicente Calderón, pero desde el año 2017 disputan sus partidos como locales en el moderno **Riyadh Air Metropolitano**.
 
 ---
 
