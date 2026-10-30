@@ -78,15 +78,9 @@ ORDER BY dorsal ASC;
 * Puedes visitar la [Web Oficial del Atlético de Madrid](https://www.atleticodemadrid.com/) para consultar noticias y entradas.
 * Consulta el perfil oficial de LaLiga en [LaLiga - Atlético de Madrid](https://www.laliga.com/clubes/atletico-de-madrid).
 
-### Escudo / Imagen representativa:
-![Estadio Metropolitano](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Wanda-Metropolitano.jpg/800px-Wanda-Metropolitano.jpg)
+### Escudo del club: 
+![Escudo del Atlético de Madrid]
 
 ---
 
-## ✅ Checklist de la Práctica (Lista de tareas)
-
-- [x] Crear el repositorio público en GitHub.
-- [x] Redactar encabezados de distintos niveles (`H1`, `H2`, `H3`).
-- [x] Aplicar formatos de **negrita**, *cursiva* y ~~tachado~~.
-- [x] Añadir tablas, listas, citas y bloques de código.
-- [ ] Compartir el enlace del repositorio con el profesor.
+## Mi instituto
