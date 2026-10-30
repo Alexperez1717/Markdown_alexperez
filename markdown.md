@@ -6,7 +6,7 @@ Bienvenido al repositorio de documentación sobre el **Club Atlético de Madrid*
 
 ---
 
-## 📖 Historia y Filosofía
+## Historia y Filosofía
 
 El **Atlético de Madrid** fue fundado el *26 de abril de 1903* por un grupo de estudiantes vascos afincados en Madrid. Conocidos popularmente como los ***colchoneros*** debido a las rayas rojas y blancas de las antiguas fundas de colchones, el club se caracteriza por su espíritu de lucha, sacrificio y resiliencia.
 
@@ -14,9 +14,9 @@ Antiguamente jugaban en el mítico Estadio Vicente Calderón, pero desde el año
 
 ---
 
-## 🏆 Palmarés y Estadísticas
+## Palmarés y Estadísticas
 
-### Títulos principales (Listas anidadas)
+### Títulos principales 
 
 * **Competiciones Nacionales**
   * 11 Ligas de Primera División
@@ -28,7 +28,7 @@ Antiguamente jugaban en el mítico Estadio Vicente Calderón, pero desde el año
   * 1 Recopa de Europa
   * 1 Copa Intercontinental
 
-### Leyendas con más partidos (Lista numerada)
+### Leyendas con más partidos 
 
 1. **Koke Resurrección** (749 partidos)
 2. **Adelardo Rodríguez** (553 partidos)
@@ -37,7 +37,7 @@ Antiguamente jugaban en el mítico Estadio Vicente Calderón, pero desde el año
 
 ---
 
-## 🏟️ Evolución de los Estadios (Tabla)
+## Evolución de los Estadios 
 
 A continuación se muestra una comparativa de los principales estadios históricos del club:
 
@@ -49,7 +49,7 @@ A continuación se muestra una comparativa de los principales estadios históric
 
 ---
 
-## 💻 Gestión de Datos del Club (Bloques de código)
+## Gestión de Datos del Club 
 
 Podemos consultar los datos de la plantilla usando un comando rápido en consola como `curl -s https://api.atleticodemadrid.com/plantilla` o mediante scripts estructurados.
 
@@ -73,10 +73,11 @@ ORDER BY dorsal ASC;
 
 ---
 
-## 🔗 Enlaces e Imágenes
+## Enlaces e Imágenes
 
 * Puedes visitar la [Web Oficial del Atlético de Madrid](https://www.atleticodemadrid.com/) para consultar noticias y entradas.
 * Consulta el perfil oficial de LaLiga en [LaLiga - Atlético de Madrid](https://www.laliga.com/clubes/atletico-de-madrid).
+* Documento con mas información [información extra](docs/detalles.md)
 
 ### Escudo del club: 
 ![Escudo del Atlético de Madrid](assets/escudo.png)
