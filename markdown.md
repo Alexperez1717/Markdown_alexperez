@@ -77,7 +77,7 @@ ORDER BY dorsal ASC;
 
 * Puedes visitar la [Web Oficial del Atlético de Madrid](https://www.atleticodemadrid.com/) para consultar noticias y entradas.
 * Consulta el perfil oficial de LaLiga en [LaLiga - Atlético de Madrid](https://www.laliga.com/clubes/atletico-de-madrid).
-* Documento con mas información [información extra](docs/detalles.md)
+* Documento con [información extra.](docs/detalles.md)
 
 ### Escudo del club: 
 ![Escudo del Atlético de Madrid](assets/escudo.png)
