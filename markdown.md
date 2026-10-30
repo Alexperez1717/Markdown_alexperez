@@ -79,8 +79,9 @@ ORDER BY dorsal ASC;
 * Consulta el perfil oficial de LaLiga en [LaLiga - Atlético de Madrid](https://www.laliga.com/clubes/atletico-de-madrid).
 
 ### Escudo del club: 
-![Escudo del Atlético de Madrid]
+![Escudo del Atlético de Madrid](assets/escudo.png)
 
 ---
 
 ## Mi instituto
+![Mi instituto IES Clara del Rey](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg/960px-I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
